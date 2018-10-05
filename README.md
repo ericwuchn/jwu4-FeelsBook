@@ -3,6 +3,12 @@
 
 An Android app for recording everyday emotions.
 
+**Note**
+
+When first time build the project, this window will jump out. Just click "OK" the build will be completed.
+
+![screenshot](/doc/build_add_files_to_git.png)
+
 **Acknowledgement**<br/>
 - **Material design** "Add Icon" from https://materialdesignicons.com/
 - **Coding in Flow**, How to Save an ArrayList of Custom Objects to SharedPreferences with Gson - Android Studio Tutorial,       https://www.youtube.com/watch?v=jcliHGR3CHo
