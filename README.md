@@ -1,5 +1,5 @@
 # jwu4-FeelsBook
-CMPUT301 Fall 2018 Assignment 1
+**CMPUT301 Fall 2018 Assignment 1**
 
 An Android app for recording everyday emotions.
 
