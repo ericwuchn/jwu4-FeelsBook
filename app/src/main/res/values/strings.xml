@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">jwu4-FeelsBook</string>
-    <string name="add_text">ADD</string>
-    <string name="update_text">UPDATE</string>
-    <string name="delete_text">DELETE</string>
-    <string name="comment_text">Comment</string>
-    <string name="timestamp_text">Timestamp</string>
-</resources>
