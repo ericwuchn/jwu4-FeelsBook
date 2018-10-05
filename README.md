@@ -5,7 +5,7 @@
 An Android app for recording everyday emotions.
 
 **Note**<br/>
-When first time building the project, this window will jump out. Just click "OK" the build will be completed.
+When first time cloning the project and building it, this window will jump out. Just click "OK" the build will be completed.
 
 ![screenshot](/doc/build_add_files_to_git.png)
 
