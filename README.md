@@ -3,8 +3,7 @@
 
 An Android app for recording everyday emotions.
 
-**Note**
-
+**Note**<br/>
 When first time build the project, this window will jump out. Just click "OK" the build will be completed.
 
 ![screenshot](/doc/build_add_files_to_git.png)
